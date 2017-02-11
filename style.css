@@ -1,0 +1,12 @@
+div.bar {
+    display: inline-block;
+    width: 10px;
+    height: 75px;   /* We'll override this later */
+    background-color: red;
+    margin-right: 1px;
+
+}
+
+body {
+  background-color: black;
+}
